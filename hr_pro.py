@@ -13,7 +13,7 @@ class Employee:
 
 employee1 = Employee("Khaled", 26, 100, 4)
 
-# print(employee1.get_annual_salary())      #Testing
+print(employee1)      #Testing
 
 
 
